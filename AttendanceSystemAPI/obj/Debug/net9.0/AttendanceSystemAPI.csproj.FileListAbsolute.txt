@@ -155,3 +155,4 @@ D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Debug\net9.0\refint\Attenda
 D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Debug\net9.0\AttendanceSystemAPI.pdb
 D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Debug\net9.0\AttendanceSystemAPI.genruntimeconfig.cache
 D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Debug\net9.0\ref\AttendanceSystemAPI.dll
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Debug\net9.0\AttendanceSystemAPI.sourcelink.json

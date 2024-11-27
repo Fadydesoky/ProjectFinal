@@ -1,28 +1,32 @@
-networks:
-MAFGANG:
 services:
   sqlserver:
-  container_name: Att-db
-  image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: Att-db
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    ports:
       - "1433:1433"
-  environment:
+    environment:
       ACCEPT_EULA: "Y"
       SA_PASSWORD: "password#12345@"
-  networks:
-    - MAFGANG
-attendanceapi:
-  container_name: attendance-app
-  image: ${DOCKER_REGISTRY-}attendanceapi
-  build:
+    networks:
+      - MAFGANG
+
+  attendanceapi:
+    container_name: attendance-app
+    image: ${DOCKER_REGISTRY-}attendanceapi
+    build:
       context: .
-      Dockerfile: AttendanceSystemApi/Dockerfile
-  ports:
+      dockerfile: AttendanceSystemApi/Dockerfile
+    ports:
       - "5279:5279"
-  depends_on:
+    depends_on:
       - sqlserver
-  environment:
-     - DB_HOST=sqlserver
-     - DB_NAME=AttendanceSystemApp
-     - DB_SA_PASSWORD=password#12345@
-  networks:
-    - MAFGANG
+    environment:
+      - DB_HOST=sqlserver
+      - DB_NAME=AttendanceSystemApp
+      - DB_SA_PASSWORD=password#12345@
+    networks:
+      - MAFGANG
+
+networks:
+  MAFGANG:
+    driver: bridge
