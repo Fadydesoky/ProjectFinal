@@ -1,0 +1,23 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server
+    environment:
+      SA_PASSWORD: "Fady@Password"
+      ACCEPT_EULA: "F"
+    ports:
+      - "1433:1433"
+  api:
+    build:
+      context: ./AttendanceSystemAPI
+      dockerfile: Dockerfile
+    depends_on:
+      - sqlserver
+    networks:
+      - MAFGANG
+    environment:
+      ConnectionStrings__DefaultConnection: "Server=sqlserver;Database=AttendanceSystemDB;User Id=sa;Password=Fady123;"
+    ports:
+      - "5279:5279"
+networks:
+    MAFGANG:
+      driver: bridge

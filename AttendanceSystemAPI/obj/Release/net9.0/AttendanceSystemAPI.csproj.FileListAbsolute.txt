@@ -1,0 +1,31 @@
+D:\app\appsettings.Development.json
+D:\app\appsettings.json
+D:\app\AttendanceSystemAPI.staticwebassets.endpoints.json
+D:\app\AttendanceSystemAPI.exe
+D:\app\AttendanceSystemAPI.deps.json
+D:\app\AttendanceSystemAPI.runtimeconfig.json
+D:\app\AttendanceSystemAPI.dll
+D:\app\AttendanceSystemAPI.pdb
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.csproj.AssemblyReference.cache
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.AssemblyInfoInputs.cache
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.AssemblyInfo.cs
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.csproj.CoreCompileInputs.cache
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\scopedcss\bundle\AttendanceSystemAPI.styles.css
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\staticwebassets.build.json
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\staticwebassets.development.json
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\staticwebassets.build.endpoints.json
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\staticwebassets\msbuild.AttendanceSystemAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\staticwebassets\msbuild.AttendanceSystemAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\staticwebassets\msbuild.build.AttendanceSystemAPI.props
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.AttendanceSystemAPI.props
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.AttendanceSystemAPI.props
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\staticwebassets.pack.json
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\Attendan.1395FCCE.Up2Date
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.dll
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\refint\AttendanceSystemAPI.dll
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.pdb
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\AttendanceSystemAPI.genruntimeconfig.cache
+D:\github d-top\ProjectFinal\AttendanceSystemAPI\obj\Release\net9.0\ref\AttendanceSystemAPI.dll
